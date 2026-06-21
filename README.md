@@ -2,7 +2,7 @@
 
 ![Smart Clock Header](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=36&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=600&height=80&lines=🕐+Smart+Clock;Analog+%2B+Calendar+Rings)
 
-<a href="https://samir-frontend.github.io/smart-clock/">
+<a href="https://samir-frontend.github.io/Smart-Clock/">
   <img src="https://img.shields.io/badge/🕐%20Open%20Clock-1a1a1a?style=for-the-badge&logoColor=white"/>
 </a>
 
@@ -94,7 +94,7 @@ Or just open `index.html` directly in any browser — no dependencies needed!
 
 ## 🚀 Live Demo
 
-**[🕐 Launch Smart Clock →](https://samir-frontend.github.io/smart-clock/)**
+**[🕐 Launch Smart Clock →](https://samir-frontend.github.io/Smart-Clock/)**
 
 ---
 
